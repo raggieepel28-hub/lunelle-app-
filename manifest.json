@@ -1,0 +1,17 @@
+{
+  "name": "Lunelle | your little days",
+  "short_name": "Lunelle",
+  "lang": "ja",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffafd",
+  "theme_color": "#f9e8f0",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
